@@ -93,4 +93,4 @@ def lambda_handler(event, context):
     }
 ## Full Demo & Screenshots
 For a complete walkthrough, including **full-resolution screenshots and screen recordings**, visit my Google Drive folder:
-[View Project Media]https://drive.google.com/drive/folders/1BCo6yIsPbxE7umx8B8FvWNRZCBDZqh7w?usp=sharing
+[View Project Media](https://drive.google.com/drive/folders/1BCo6yIsPbxE7umx8B8FvWNRZCBDZqh7w?usp=sharing)
